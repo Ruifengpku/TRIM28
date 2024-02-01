@@ -1,0 +1,3 @@
+/home/ruifeng/tools/hicpro_my/HiC-Pro_2.11.4/bin/HiC-Pro -c /mnt/14Tdisk/Projects/weikun/hic/config-hicpro-test.txt -i /mnt/14Tdisk/Projects/weikun/hic/data_second_clean -o result_20210813_all_merge_mapq5
+# /home/ruifeng/tools/hicpro_my/HiC-Pro_2.11.4/bin/HiC-Pro -c /mnt/14Tdisk/Projects/weikun/hic/config-hicpro-test.txt -i /mnt/14Tdisk/Projects/weikun/hic/result_20210330_all_merge_mapq5/hic_results/data -o result_20210330_all_merge_mapq5 -s build_contact_maps
+# /home/ruifeng/tools/hicpro_my/HiC-Pro_2.11.4/bin/HiC-Pro -c /mnt/14Tdisk/Projects/weikun/hic/config-hicpro-test.txt -i /mnt/14Tdisk/Projects/weikun/hic/result_20210330_all_merge_mapq5/hic_results/matrix -o result_20210330_all_merge_mapq5 -s ice_norm
